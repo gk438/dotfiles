@@ -1,0 +1,15 @@
+[user]
+	name = gk
+	email = gk438@tutanota.com
+[core]
+	editor = vim
+[push]
+    default = simple
+[color]
+    ui = true
+[alias]
+    co = checkout
+    br = branch -avv
+    ci = commit 
+    st = status
+    df = diff
