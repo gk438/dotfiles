@@ -6,7 +6,7 @@ set laststatus=2
 set number
 set t_Co=256
 syntax enable 
-color molokai
+color jellybeans
 
 
 "tabs
